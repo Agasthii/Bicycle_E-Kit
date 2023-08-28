@@ -1,5 +1,5 @@
 # Bicycle_E-Kit
-# Overview
+## Overview
 Considering the increased popularity of bicycles recently we decided to design a
 product which would enhance the overall experience of the rider.
 The product includes;
