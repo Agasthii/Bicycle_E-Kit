@@ -3,9 +3,9 @@
 Considering the increased popularity of bicycles recently we decided to design a
 product which would enhance the overall experience of the rider.
 The product includes;
-- a dark activated light system
-- anti theft alarm system which gives off an alarm if somebody touches the lock when the bicycle is locked
-- turn indicating signal light system
+- a dark activated light system.
+- anti theft alarm system which gives off an alarm if somebody touches the lock when the bicycle is locked.
+- turn indicating signal light system.
 - a speedometer.
 
 <p align="center">
